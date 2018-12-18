@@ -5,6 +5,9 @@
 html{
     /*overflow: h;*/
 }
+.icon{
+    font-family: FontAwesome;
+}
 a{
     text-decoration: none;
     color: #000;
