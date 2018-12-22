@@ -21,7 +21,7 @@ a{
     width:1530px;
     height: 200px;
     /*background-color: #8ac007;*/
-    background-image: url("../img/bnj.png");
+    background-image: url(../bilibili/img/bnj.png)
     /*-moz-background-image-repeat: repeat-x;*/
     /*object-fit: cover;*/
 }
